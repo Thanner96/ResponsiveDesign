@@ -1,0 +1,13 @@
+.main--section1__tables{
+    display: flex;
+    width: 93rem;
+    margin: 0 auto;}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    width: 93rem;
+    margin: 0 auto;}
+
+.subsection-plans {
+    justify-content: center;}
